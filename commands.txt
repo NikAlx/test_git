@@ -14,4 +14,6 @@ git checkout text.txt
 git checkout fe5dbf8 text.txt - сбросит изменения до конкретного коммита
 git checkout master text.txt - сбросит изменения до master коммита
 
+git revert HEAD --no-edit - отменить последний коммит
+
 
