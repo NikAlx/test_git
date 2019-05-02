@@ -1,7 +1,4 @@
 ﻿Branch after merge f1
 add line 1
 add third line 1233
-строка, чтобы удалить
-
-
 
