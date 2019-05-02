@@ -3,5 +3,6 @@ add line 1
 add third line 1233
 rebase-1
 rebase -3
-add new line 
+add new line
+another line 
 
